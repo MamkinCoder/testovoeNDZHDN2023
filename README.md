@@ -4,7 +4,7 @@
 
 ![Посетители](visits.png)
 
-Я написал скрипт который переводит эту метрику в Google Sheets используя Yandex.Metrics API и Google Sheets API. В API ключи лежат в .env и .credentials.json соответственно.
+Я написал скрипт который переводит эту метрику в Google Sheets используя Yandex.Metrics API и Google Sheets API. API ключи лежат в .env и .credentials.json соответственно.
 
 [Таблица](https://docs.google.com/spreadsheets/d/1-OtRd-11lSh3zhS0EIthUUma9cbZSAo8DxdxTuZcRvk/edit?usp=sharing)
 
